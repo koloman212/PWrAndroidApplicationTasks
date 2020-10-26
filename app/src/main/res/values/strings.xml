@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PWrSimpleTasks</string>
+    <string name="welcomeText">Welcome in the first Android App</string>
+    <string name="user_input_button">User Input</string>
+    <string name="layouts_button">Layouts</string>
+    <string name="button50">50%</string>
+    <string name="button30">30%</string>
+    <string name="button20">20%</string>
+</resources>
